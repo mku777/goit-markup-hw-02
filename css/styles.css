@@ -11,7 +11,7 @@
   --title-text-color: #212121;
   --accent-color: #2196f3;
   --primary-bg-color: #ffffff;
-  --secondary-bg-color: #2F303A;
+  --secondary-bg-color: #2f303a;
 }
 
 body {
@@ -89,11 +89,11 @@ ul {
 
 /* Button */
 .button {
-    color: var(--primary-bg-color);
-    background-color: var(--accent-color);
-        font-weight: 700;
-        font-size: 16px;
-        letter-spacing: 0.06em;
+  color: var(--primary-bg-color);
+  background-color: var(--accent-color);
+  font-weight: 700;
+  font-size: 16px;
+  letter-spacing: 0.06em;
 }
 
 /* Sections */
@@ -129,17 +129,17 @@ ul {
 
 .worker-list .title {
   color: var(--title-text-color);
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.19;
-    letter-spacing: 0.03em;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.19;
+  letter-spacing: 0.03em;
 }
 
 .worker-list .text {
-        font-weight: 400;
-        font-size: 16px;
-        line-height: 1.19;
-        letter-spacing: 0.03em;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.19;
+  letter-spacing: 0.03em;
 }
 
 .works {
@@ -160,22 +160,20 @@ ul {
 }
 
 .adress-nav .rgb-color {
-    color: rgba(255, 255, 255, 0.6);
+  color: rgba(255, 255, 255, 0.6);
 }
-    
-   
 
 /* Portfolio Page */
 
 .buttn .filter {
   color: var(--title-text-color);
   background-color: #f5f4fa;
-   font-family: Roboto;
-    font-style: normal;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.62;
-    letter-spacing: 0.03em;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.62;
+  letter-spacing: 0.03em;
 }
 
 /* Portfolio Page buttons */
@@ -185,27 +183,26 @@ ul {
 }
 
 .buttn {
-        font-weight: 500;
-        font-size: 16px;
-        line-height: 1.62;
-        letter-spacing: 0.03em;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.62;
+  letter-spacing: 0.03em;
 }
 
 /* Portfolio page titles */
 
 .projects-list .title {
-        color: var(--title-text-color);
-        font-weight: 700;
-        font-size: 18px;
-        line-height: 2;
-        letter-spacing: 0.06em;
-}
-     
-.projects-list .text {
-    color: var(primary-text-color);
-        font-weight: 400;
-        font-size: 16px;
-        line-height: 1.88;
-        letter-spacing: 0.03em;
+  color: var(--title-text-color);
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 2;
+  letter-spacing: 0.06em;
 }
 
+.projects-list .text {
+  color: var(primary-text-color);
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.88;
+  letter-spacing: 0.03em;
+}
