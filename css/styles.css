@@ -39,6 +39,14 @@ ul {
   color: var(--accent-color);
 }
 
+.logo .footer {
+  color: var(--primary-bg-color);
+}
+
+.logo-footer-back {
+  background-color: var(--secondary-bg-color);
+}
+
 /* Site nav */
 
 .site-nav .link {
@@ -180,7 +188,8 @@ ul {
   background-color: var(--accent-color);
 }
 
-.buttn {
+.buttn .filter {
+  color: var(--title-text-color);
   font-weight: 500;
   font-size: 16px;
   line-height: 1.62;
