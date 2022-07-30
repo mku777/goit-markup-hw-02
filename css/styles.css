@@ -168,6 +168,13 @@ ul {
   color: rgba(255, 255, 255, 0.6);
 }
 
+.adress-nav .link:hover,
+.adress-nav .link:focus,
+.adress-nav .rgb-color:hover,
+.adress-nav .rgb-color:focus {
+color: var(--accent-color);
+}
+
 /* Portfolio Page */
 
 .buttn .filter {
@@ -180,6 +187,11 @@ ul {
   line-height: 1.62;
   letter-spacing: 0.03em;
   cursor: pointer;
+}
+
+.buttn .filter:hover,
+.buttn .filter:focus {
+color: var(--primary-bg-color);
 }
 
 /* Portfolio Page buttons */
